@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+postgres_data/
+
+docker-compose.yaml/
