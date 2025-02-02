@@ -34,7 +34,7 @@ An intelligent command-line todo list application powered by Google's Gemini AI.
 ├── index.js # Main application file
 └── .env # Environment variables
 
-bash
+## bash
 >> add buy groceries
 🤖: Added "buy groceries" to your todo list!
 >> show all todos
